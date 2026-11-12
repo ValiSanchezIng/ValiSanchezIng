@@ -2,14 +2,14 @@
 
 ###
 
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<img
-  src="https://raw.githubusercontent.com/ValiSanchezIng/ValiSanchezIng/stats-output/stats.svg"
-  height="150"
-  alt="GitHub Stats"
-/>
+  <img src="https://streak-stats.demolab.com?user=ValiSanchezIng&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
 
 ###
 
